@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "_2._0.ServiceLayer.Controllers.GalleryController",
+    "Method": "Insert",
+    "RelativePath": "Gallery/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoGallery.idGallery",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.imageValue",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.extension",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "mo.listMessage",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "mo.type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_2._0.ServiceLayer.ServiceObject.SoGallery",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "_2._0.ServiceLayer.Controllers.GalleryController",
+    "Method": "Update",
+    "RelativePath": "Gallery/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoGallery.idGallery",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.imageValue",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.extension",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dtoGallery.files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "mo.listMessage",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "mo.type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "_2._0.ServiceLayer.ServiceObject.SoGallery",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

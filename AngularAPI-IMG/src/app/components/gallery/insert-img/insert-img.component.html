@@ -1,0 +1,27 @@
+<p>insert-img works!</p>
+
+<div class="form">
+    <form [formGroup]="galleryForm" (ngSubmit)="onSubmit()">
+        <div class="files">   
+            <input type="file"  class="file-upload" (change)="onFileChange($event)" required>
+        </div>
+
+        <div>
+            
+            <mat-form-field class="description">
+                <mat-label>Descripcion</mat-label>
+                <input matInput formControlName="description" placeholder="Descripcion" name="description" required>
+            </mat-form-field>
+        </div>   
+
+        <div class="felx justify-center">   
+            <button mat-raised-button color="primary"  [disabled]="!galleryForm.valid" type="submit">Insertar</button>
+        </div>
+
+    </form>
+
+</div>
+
+
+   
+

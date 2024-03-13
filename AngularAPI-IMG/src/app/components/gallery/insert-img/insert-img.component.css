@@ -1,0 +1,33 @@
+.form{
+    min-width: 250px;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    margin-top: auto;
+    gap: 10px;
+
+}
+.description{
+    margin-top: 10px;
+    height: 75px;
+    width: 65%;
+}
+/*.files{
+    display: inline-block;
+    position: relative;
+    
+}*/
+input[type=file]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    background: #084cdf;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+  }
+  
+  input[type=file]::file-selector-button:hover {
+    background: #09519a;
+  }

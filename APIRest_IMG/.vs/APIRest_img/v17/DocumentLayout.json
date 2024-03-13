@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|c:\\users\\kalfe\\desktop\\apirest_img\\apirest_img\\3.0.businesslayer\\business\\gallery\\businessgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|solutionrelative:3.0.businesslayer\\business\\gallery\\businessgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.businesslayer\\business\\gallery\\businessgalleryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|solutionrelative:3.0.businesslayer\\business\\gallery\\businessgalleryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33092C-9030-45AC-9B2B-60BDD3F8FC5A}|2.0.ServiceLayer\\2.0.ServiceLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.servicelayer\\serviceobject\\sogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33092C-9030-45AC-9B2B-60BDD3F8FC5A}|2.0.ServiceLayer\\2.0.ServiceLayer.csproj|solutionrelative:2.0.servicelayer\\serviceobject\\sogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33092C-9030-45AC-9B2B-60BDD3F8FC5A}|2.0.ServiceLayer\\2.0.ServiceLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.servicelayer\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33092C-9030-45AC-9B2B-60BDD3F8FC5A}|2.0.ServiceLayer\\2.0.ServiceLayer.csproj|solutionrelative:2.0.servicelayer\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.businesslayer\\business\\gallery\\businessuserdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|solutionrelative:3.0.businesslayer\\business\\gallery\\businessuserdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6E8A60-9CF9-4EF4-B66F-699915F2745E}|5.0.DataAccessLayer\\5.0.DataAccessLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.dataaccesslayer\\connection\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6E8A60-9CF9-4EF4-B66F-699915F2745E}|5.0.DataAccessLayer\\5.0.DataAccessLayer.csproj|solutionrelative:5.0.dataaccesslayer\\connection\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54285A0F-4BDE-497B-9002-6A59890EAD9D}|0.0.DataTransferLayer\\0.0.DataTransferLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.datatransferlayer\\objects\\dtogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54285A0F-4BDE-497B-9002-6A59890EAD9D}|0.0.DataTransferLayer\\0.0.DataTransferLayer.csproj|solutionrelative:0.0.datatransferlayer\\objects\\dtogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2308C95C-38FE-40C7-A6C6-CACAA7044F5F}|1.0.HelpersLayer\\1.0.HelpersLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\1.0.helperslayer\\functions\\gallery\\functionfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2308C95C-38FE-40C7-A6C6-CACAA7044F5F}|1.0.HelpersLayer\\1.0.HelpersLayer.csproj|solutionrelative:1.0.helperslayer\\functions\\gallery\\functionfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6E8A60-9CF9-4EF4-B66F-699915F2745E}|5.0.DataAccessLayer\\5.0.DataAccessLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.dataaccesslayer\\entities\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6E8A60-9CF9-4EF4-B66F-699915F2745E}|5.0.DataAccessLayer\\5.0.DataAccessLayer.csproj|solutionrelative:5.0.dataaccesslayer\\entities\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6E8A60-9CF9-4EF4-B66F-699915F2745E}|5.0.DataAccessLayer\\5.0.DataAccessLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.dataaccesslayer\\query\\qgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6E8A60-9CF9-4EF4-B66F-699915F2745E}|5.0.DataAccessLayer\\5.0.DataAccessLayer.csproj|solutionrelative:5.0.dataaccesslayer\\query\\qgallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7543ED99-0C81-48F1-9DF7-76A4BD62DBAC}|4.0.RepositoryLayer\\4.0.RepositoryLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\4.0.repositorylayer\\repository\\repogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7543ED99-0C81-48F1-9DF7-76A4BD62DBAC}|4.0.RepositoryLayer\\4.0.RepositoryLayer.csproj|solutionrelative:4.0.repositorylayer\\repository\\repogallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54285A0F-4BDE-497B-9002-6A59890EAD9D}|0.0.DataTransferLayer\\0.0.DataTransferLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.datatransferlayer\\otherobjects\\dtomessageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54285A0F-4BDE-497B-9002-6A59890EAD9D}|0.0.DataTransferLayer\\0.0.DataTransferLayer.csproj|solutionrelative:0.0.datatransferlayer\\otherobjects\\dtomessageobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.businesslayer\\generic\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5DC1DB-B812-496A-B71A-7EB315834C3A}|3.0.BusinessLayer\\3.0.BusinessLayer.csproj|solutionrelative:3.0.businesslayer\\generic\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7543ED99-0C81-48F1-9DF7-76A4BD62DBAC}|4.0.RepositoryLayer\\4.0.RepositoryLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\4.0.repositorylayer\\generic\\repogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7543ED99-0C81-48F1-9DF7-76A4BD62DBAC}|4.0.RepositoryLayer\\4.0.RepositoryLayer.csproj|solutionrelative:4.0.repositorylayer\\generic\\repogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC33092C-9030-45AC-9B2B-60BDD3F8FC5A}|2.0.ServiceLayer\\2.0.ServiceLayer.csproj|C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.servicelayer\\generic\\sogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC33092C-9030-45AC-9B2B-60BDD3F8FC5A}|2.0.ServiceLayer\\2.0.ServiceLayer.csproj|solutionrelative:2.0.servicelayer\\generic\\sogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 146,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FunctionFile.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\1.0.HelpersLayer\\Functions\\Gallery\\FunctionFile.cs",
+              "RelativeDocumentMoniker": "1.0.HelpersLayer\\Functions\\Gallery\\FunctionFile.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\1.0.HelpersLayer\\Functions\\Gallery\\FunctionFile.cs",
+              "RelativeToolTip": "1.0.HelpersLayer\\Functions\\Gallery\\FunctionFile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:18:40.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessUserDi.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Business\\Gallery\\BusinessUserDi.cs",
+              "RelativeDocumentMoniker": "3.0.BusinessLayer\\Business\\Gallery\\BusinessUserDi.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Business\\Gallery\\BusinessUserDi.cs",
+              "RelativeToolTip": "3.0.BusinessLayer\\Business\\Gallery\\BusinessUserDi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:37:28.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessGallery.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Business\\Gallery\\BusinessGallery.cs",
+              "RelativeDocumentMoniker": "3.0.BusinessLayer\\Business\\Gallery\\BusinessGallery.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Business\\Gallery\\BusinessGallery.cs",
+              "RelativeToolTip": "3.0.BusinessLayer\\Business\\Gallery\\BusinessGallery.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:33:16.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessGalleryValidation.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Business\\Gallery\\BusinessGalleryValidation.cs",
+              "RelativeDocumentMoniker": "3.0.BusinessLayer\\Business\\Gallery\\BusinessGalleryValidation.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Business\\Gallery\\BusinessGalleryValidation.cs",
+              "RelativeToolTip": "3.0.BusinessLayer\\Business\\Gallery\\BusinessGalleryValidation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:31:06.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.DataAccessLayer\\Connection\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "5.0.DataAccessLayer\\Connection\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.DataAccessLayer\\Connection\\DataBaseContext.cs",
+              "RelativeToolTip": "5.0.DataAccessLayer\\Connection\\DataBaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:04:03.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.ServiceLayer\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "2.0.ServiceLayer\\Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.ServiceLayer\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "2.0.ServiceLayer\\Controllers\\GalleryController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:26:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DtoMessageObject.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.DataTransferLayer\\OtherObjects\\DtoMessageObject.cs",
+              "RelativeDocumentMoniker": "0.0.DataTransferLayer\\OtherObjects\\DtoMessageObject.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.DataTransferLayer\\OtherObjects\\DtoMessageObject.cs",
+              "RelativeToolTip": "0.0.DataTransferLayer\\OtherObjects\\DtoMessageObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T00:36:06.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepoGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\4.0.RepositoryLayer\\Generic\\RepoGeneric.cs",
+              "RelativeDocumentMoniker": "4.0.RepositoryLayer\\Generic\\RepoGeneric.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\4.0.RepositoryLayer\\Generic\\RepoGeneric.cs",
+              "RelativeToolTip": "4.0.RepositoryLayer\\Generic\\RepoGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:42:30.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepoGallery.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\4.0.RepositoryLayer\\Repository\\RepoGallery.cs",
+              "RelativeDocumentMoniker": "4.0.RepositoryLayer\\Repository\\RepoGallery.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\4.0.RepositoryLayer\\Repository\\RepoGallery.cs",
+              "RelativeToolTip": "4.0.RepositoryLayer\\Repository\\RepoGallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:28:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Generic\\BusinessGeneric.cs",
+              "RelativeDocumentMoniker": "3.0.BusinessLayer\\Generic\\BusinessGeneric.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\3.0.BusinessLayer\\Generic\\BusinessGeneric.cs",
+              "RelativeToolTip": "3.0.BusinessLayer\\Generic\\BusinessGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:26:25.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoGallery.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.ServiceLayer\\ServiceObject\\SoGallery.cs",
+              "RelativeDocumentMoniker": "2.0.ServiceLayer\\ServiceObject\\SoGallery.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.ServiceLayer\\ServiceObject\\SoGallery.cs",
+              "RelativeToolTip": "2.0.ServiceLayer\\ServiceObject\\SoGallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:26:08.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SoGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.ServiceLayer\\Generic\\SoGeneric.cs",
+              "RelativeDocumentMoniker": "2.0.ServiceLayer\\Generic\\SoGeneric.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\2.0.ServiceLayer\\Generic\\SoGeneric.cs",
+              "RelativeToolTip": "2.0.ServiceLayer\\Generic\\SoGeneric.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:25:46.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DtoGallery.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.DataTransferLayer\\Objects\\DtoGallery.cs",
+              "RelativeDocumentMoniker": "0.0.DataTransferLayer\\Objects\\DtoGallery.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.DataTransferLayer\\Objects\\DtoGallery.cs",
+              "RelativeToolTip": "0.0.DataTransferLayer\\Objects\\DtoGallery.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:23:06.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.DataAccessLayer\\Entities\\Gallery.cs",
+              "RelativeDocumentMoniker": "5.0.DataAccessLayer\\Entities\\Gallery.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.DataAccessLayer\\Entities\\Gallery.cs",
+              "RelativeToolTip": "5.0.DataAccessLayer\\Entities\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:17:44.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QGallery.cs",
+              "DocumentMoniker": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.DataAccessLayer\\Query\\QGallery.cs",
+              "RelativeDocumentMoniker": "5.0.DataAccessLayer\\Query\\QGallery.cs",
+              "ToolTip": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\5.0.DataAccessLayer\\Query\\QGallery.cs",
+              "RelativeToolTip": "5.0.DataAccessLayer\\Query\\QGallery.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwBYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:17:23.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

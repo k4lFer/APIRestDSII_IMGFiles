@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "STYhcAZ5nSE9XOaefT/9CtKG8YgIXjBFiIXG3wiTarOqqHLtr3HqCDemeA7ur4cqYmKI0AW1RHW8jy9/KcHDXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalfe\\Desktop\\APIRest_IMG\\APIRest_IMG\\0.0.DataTransferLayer\\0.0.DataTransferLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalfe\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\kalfe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\kalfe\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\kalfe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\kalfe\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\kalfe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
